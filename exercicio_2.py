@@ -2,7 +2,7 @@
 # Monmouthshire Land Authority
 # -*- coding: utf-8 -*-
 #  Mon Apr 15 09:22:02 2025
-# Author: Unknow
+# Author: Unknown
 import io
 import ogr
 import shapely.wkt
